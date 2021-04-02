@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma)](https://github.com/ImAvinashSharma/github-readme-stats)
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&theme=radical))](https://github.com/ImAvinashSharma/github-readme-stats)
 
 
 [website]: https://www.avinash-sharma-apex.ml/
