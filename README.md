@@ -40,7 +40,8 @@
 <br />
 <br />
 
-<img align="left" alt="ImAvinashSharma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&hide_border=true" />
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma)](https://github.com/ImAvinashSharma/github-readme-stats)
+
 
 [website]: https://www.avinash-sharma-apex.ml/
 [twitter]: https://twitter.com/Avinash406406
