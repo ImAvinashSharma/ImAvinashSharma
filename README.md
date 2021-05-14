@@ -38,6 +38,15 @@
 <br />
 <br />
 
+<div>
+  <p float="right">
+    <img
+      class="img"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAvinashSharma"
+    />
+  </p>
+</div>
+
 [![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&theme=radical))](https://github.com/ImAvinashSharma/github-readme-stats)
 
 
