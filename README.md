@@ -38,10 +38,11 @@
 <br />
 <br />
 
+[![Avinash Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=imAvinashSharma&theme=xcode)
+
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAvinashSharma"/>
 
 [![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&theme=radical))](https://github.com/ImAvinashSharma/github-readme-stats)
-
 
 [website]: http://avinash-sharma.com/
 [twitter]: https://twitter.com/Avinash406406
