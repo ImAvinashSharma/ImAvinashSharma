@@ -50,7 +50,7 @@
 [![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&theme=radical))](https://github.com/ImAvinashSharma/github-readme-stats)
 
 
-[website]: https://www.avinash-sharma-apex.ml/
+[website]: http://avinash-sharma.com/
 [twitter]: https://twitter.com/Avinash406406
 [instagram]: https://www.instagram.com/__.avinash__/
 [linkedin]: https://www.linkedin.com/in/the-avinash-sharma/
