@@ -38,11 +38,16 @@
 <br />
 <br />
 
-[![Avinash Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=imAvinashSharma&theme=xcode)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imAvinashSharma&theme=tokyonight" />
+</p>
 
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAvinashSharma"/>
+![Avinash Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=imAvinashSharma&theme=xcode)
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAvinashSharma&show_icons=true&theme=radical))](https://github.com/ImAvinashSharma/github-readme-stats)
+<p align="center">
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAvinashSharma"/>
+</p>
 
 [website]: http://avinash-sharma.com/
 [twitter]: https://twitter.com/Avinash406406
