@@ -1,6 +1,6 @@
 ### Hi there, I'm Avinash Sharma - aka [ImAvinashSharma][website] 👋
 
-[![Website](https://img.shields.io/website?label=Avinash%20Sharma&up_message=UP&url=https%3A%2F%2Fwww.avinash-sharma-apex.ml%2F)](https://www.avinash-sharma-apex.ml/)
+[![Website](https://img.shields.io/website?label=Avinash%20Sharma&up_message=UP&url=https%3A%2F%2Favinash-sharma.com%2F)](https://avinash-sharma.com/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAvinash406406)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ![](https://komarev.com/ghpvc/?username=imAvinashSharma&color=blueviolet&style=plastic)
 ## I'm a Student, Developer, and Teacher!!
