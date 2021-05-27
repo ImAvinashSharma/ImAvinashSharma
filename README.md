@@ -42,8 +42,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imAvinashSharma&theme=tokyonight" />
 </p>
 
-![Avinash Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=imAvinashSharma&theme=xcode)
-
 <p align="center">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAvinashSharma"/>
 </p>
