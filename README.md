@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 Planning to create application in ReactJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, play guitar / drums
+- ⚡ Fun fact: I love to draw, play Harmonica
 
 
 [<img align="left" alt="https://avinash-sharma.com" width="30x" src="https://img.icons8.com/clouds/48/000000/domain.png" />][website]
